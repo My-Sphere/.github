@@ -1,8 +1,10 @@
 ## Hi there 👋
 
+We are MySphere App
 
-We are MySphere APP
+Coming soon...
 
+Status: https://status.mysphereai.com/
 
 
 <!--
